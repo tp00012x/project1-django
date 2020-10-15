@@ -1,5 +1,5 @@
 certifi==2018.1.18
-Django==2.0.2
+Django==2.2.13
 Faker==0.8.11
 python-dateutil==2.7.0
 pytz==2018.3
