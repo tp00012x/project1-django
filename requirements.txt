@@ -1,4 +1,4 @@
-certifi==2018.1.18
+certifi==2022.12.7
 Django==2.0.2
 Faker==0.8.11
 python-dateutil==2.7.0
